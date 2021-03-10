@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8e03776-037e-4162-a787-e5699b62f6d8/deploy-status)](https://app.netlify.com/sites/tiny-notes/deploys)
+
 # Tiny Notes
 Take tiny notes in the browser 📝
 
